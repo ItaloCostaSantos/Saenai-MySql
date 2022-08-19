@@ -1,0 +1,13 @@
+INSERT INTO municipio (nome)
+VALUES 
+('LINHARES')
+('VITÓRIA')
+('SÃO MATEUS')
+('SOORETAMA')
+('COLATINA')
+('ARACRUZ')
+('SERRA')
+('GUARAPARI')
+('JAGUARÉ')
+('RIO BANANAL')
+
